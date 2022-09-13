@@ -1,0 +1,97 @@
+{
+    "departmentName": "Home and Youth Affairs Bureau",
+    "title": "Community Investment and Inclusion Fund Application Form",
+    "step": {
+        "introduction": "Introduction",
+        "projectInfo": "Project Information"
+    },
+    "section": {
+        "projectInfo": "Project Information"
+    },
+    "field": {
+        "organisationName" : "Name of Organisation",
+        "serviceUnitName" : "Name of Service Unit",
+        "projectName" : "Name of Project",
+        "commencementDate" : "Commencement Date",
+        "completionDate" : "Completion Date",
+        "amountRequested" : "Amount Requested",
+        "targetDistricts" : "Target District(s)",
+        "targetGroups" : "Target Group(s)",
+        "targetGroupsOther" : "Please specify:",
+        "volunteerNo" : "No. of Volunteers (Note 1)",
+        "directParticipantNo" : "No. of Direct Participants (Note 2)",
+        "indirectParticipantNo" : "No. of Indirect Participants (Note 3)",
+        "projectNature" : "Project Nature",
+        "isThematicProject" : "Is it a thematic project"    
+    },
+    "selectTargetDistricts" : {
+        "wongTaiSin" : "Wong Tai Sin",
+        "kwunTong" : "Kwun Tong",
+        "yauTsimMong" : "Yau Tsim Mong",
+        "eastern" : "Eastern",
+        "kowloonCity" : "Kowloon City",
+        "kwaiTsing" : "Kwai Tsing",
+        "centralWestern" : "Central & Western",
+        "islands" : "Islands",
+        "yuenLong" : "Yuen Long",
+        "tinShuiWai" : "Tin Shui Wai",
+        "shaTin" : "Sha Tin",
+        "maOnShan" : "Ma On Shan",
+        "saiKung" : "Sai Kung",
+        "tseungKwanO" : "Tseung Kwan O",
+        "taiPo" : "Tai Po",
+        "shamShuiPo" : "Sham Shui Po",
+        "southern" : "Southern",
+        "north" : "North",
+        "wanChai" : "Wan Chai",
+        "tsuenWan" : "Tsuen Wan",
+        "tuenMun" : "Tuen Mun",
+        "allDistrictsInHK" : "All districts in HK"
+    },
+    "selectTargetGroups" : {
+        "children" : "Children (0-14) & Families",
+        "youth" : "Youth (15-24)",
+        "adults" : "Adults (25-64)",
+        "elderly" : "Elderly (65 or above)",
+        "women" : "Women",
+        "localResidents" : "Local Residents",
+        "newArrivals" : "New Arrivals",
+        "ethnicMinorities" : "Ethnic Minorities",
+        "unemployed" : "Unemployed persons",
+        "schoolDropouts" : "School Dropouts",
+        "disabilities" : "People with Disabilities / People with Chronic Illnesses",
+        "middleClass" : "Middle class/ Professionals",
+        "others" : "Others"
+    },
+    "selectProjectNature" : {
+        "family" : "Family and Child Development",
+        "community" : "Community Capacity Building",
+        "youth" : "Youth Development",
+        "social" : "Social Integration",
+        "health" : "Health Care",
+        "cross" : "Cross generational Integration",
+        "elderly" : "Elderly Support and Empowerment"
+    },
+    "selectYesNo" : {
+        "Yes" : "Yes",
+        "No" : "No"
+    },
+    "glossary" : {
+        "note1" : "Note 1: Volunteers",
+        "definition1a" : "Anyone who is willing to offer one’s time and effort not for material returns, but for benefiting and improving the community, without restriction on service hours.",
+        "definition1b" : "(with reference to the definition of the Hong Kong Agency for Volunteer Service)",
+        "note2" : "Note 2: No. of Direct Participants",
+        "definition2a" : "Refers to the number of persons who have directly participated in project programmes, e.g. children received after school care service, elderly or families visited, etc. If the same participant takes part in several programmes of the Project,",
+        "definition2b" : "please count only once his/ her major role in the Project and shall prevent multiple counting.",
+        "note3" : "Note 3: No. of Indirect Participants",
+        "definition3a" : "Refers to the number of persons who do not directly participate in the Project (",
+        "definition3b" : "should not",
+        "definition3c" : " duplicate with the number of direct participants), e.g. visitors to the exhibitions or onlookers of the opening ceremony of the Project."
+    },
+    "error": {
+        "invalidCompletionDate": "Completion Date should be after Commencement Date"
+    },
+    "customAck": {
+        "printOrSave": "Print / Save Submitted Form As PDF"
+    }
+}

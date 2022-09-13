@@ -1,0 +1,97 @@
+{
+    "departmentName": "民政及青年事務局",
+    "title": "社區投資共享基金申請表格",
+    "step": {
+        "introduction": "簡介",
+        "projectInfo": "計劃基本資料"
+    },
+    "section": {
+        "projectInfo": "計劃基本資料"
+    },
+    "field": {
+        "organisationName" : "機構名稱",
+        "serviceUnitName" : "服務單位名稱",
+        "projectName" : "計劃名稱",
+        "commencementDate" : "開始日期",
+        "completionDate" : "結束日期",
+        "amountRequested" : "申請金額",
+        "targetDistricts" : "推行地區",
+        "targetGroups" : "目標對象",
+        "targetGroupsOther" : "請說明：",
+        "volunteerNo" : "義工參與人數 (註一)",
+        "directParticipantNo" : "直接參與人數 (註二)",
+        "indirectParticipantNo" : "間接參與人數 (註三)",
+        "projectNature" : "計劃類別",
+        "isThematicProject" : "計劃是否屬於主題項目"    
+    },
+    "selectTargetDistricts" : {
+        "wongTaiSin" : "黃大仙",
+        "kwunTong" : "觀塘",
+        "yauTsimMong" : "油尖旺",
+        "eastern" : "東區",
+        "kowloonCity" : "九龍城",
+        "kwaiTsing" : "葵青",
+        "centralWestern" : "中西區",
+        "islands" : "離島",
+        "yuenLong" : "元朗",
+        "tinShuiWai" : "天水圍",
+        "shaTin" : "沙田",
+        "maOnShan" : "馬鞍山",
+        "saiKung" : "西貢",
+        "tseungKwanO" : "將軍澳",
+        "taiPo" : "大埔",
+        "shamShuiPo" : "深水埗",
+        "southern" : "南區",
+        "north" : "北區",
+        "wanChai" : "灣仔",
+        "tsuenWan" : "荃灣",
+        "tuenMun" : "屯門",
+        "allDistrictsInHK" : "全港各區"
+    },
+    "selectTargetGroups" : {
+        "children" : "兒童 (0-14)及家庭",
+        "youth" : "青年 (15-24)",
+        "adults" : "成年人 (25-64)",
+        "elderly" : "長者 (65或以上)",
+        "women" : "婦女",
+        "localResidents" : "地區居民",
+        "newArrivals" : "新來港人士",
+        "ethnicMinorities" : "少數族裔",
+        "unemployed" : "失業人士",
+        "schoolDropouts" : "輟學人士",
+        "disabilities" : "殘疾人士/長期病患人士",
+        "middleClass" : "中產/專業人士",
+        "others" : "其他人士"
+    },
+    "selectProjectNature" : {
+        "family" : "家庭及兒童發展",
+        "community" : "建構社區能力",
+        "youth" : "青少年發展",
+        "social" : "社會共融",
+        "health" : "健康關顧",
+        "cross" : "跨代共融",
+        "elderly" : "長者支援及充能"
+    },
+    "selectYesNo" : {
+        "Yes" : "是",
+        "No" : "否"
+    },
+    "glossary" : {
+        "note1" : "註一：義工",
+        "definition1a" : "任何人自願貢獻個人時間及精神，在不為任何物質報酬的情況下，為改進社會而提供服務，時數不限。",
+        "definition1b" : "(參考香港義務工作發展局之定義)",
+        "note2" : "註二：直接參與人數",
+        "definition2a" : "指直接參與計劃項目的人數，例如：課託兒童，被探訪的長者或家庭等。如同一位參加者在計劃中參與多個項目，",
+        "definition2b" : "請以主要角色計算一次，切勿重複計算 。",
+        "note3" : "註三：間接參與人數",
+        "definition3a" : "指間接參與計劃項目的人數（",
+        "definition3b" : "不應",
+        "definition3c" : "與直接參與人數重覆），例如：街展參觀者、開幕禮觀眾等。"
+    },
+    "error": {
+        "invalidCompletionDate": "結束日期須在開始日期之後"
+    }, 
+    "customAck": {
+        "printOrSave": "列印/輸出已遞交的表格為PDF"
+    }        
+}

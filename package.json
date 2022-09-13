@@ -1,0 +1,33 @@
+{
+  "name": "govhk-form-hab012",
+  "version": "1.0.0",
+  "formId": "hab012",
+  "formVersion": "001",
+  "formUrl": "hab012",
+  "title": {
+    "en": "Community Investment and Inclusion Fund Application Form",
+    "zh-HK": "社區投資共享基金申請表格",
+    "zh-CN": "社区投资共享基金申请表格"
+  },
+  "shortTitle": {
+    "en": "Community Investment and Inclusion Fund Application Form",
+    "zh-HK": "社區投資共享基金申請表格",
+    "zh-CN": "社区投资共享基金申请表格"
+  },
+  "scripts": {
+    "start": "govhk-form-core start",
+    "build": "govhk-form-core build",
+    "update:core": "npm install govhk-form-core"
+  },
+  "author": "e-Form Support Team, OGCIO",
+  "license": "ISC",
+  "dependencies": {
+    "govhk-form-core": "git+https://gitlab.com/govhk-form/govhk-form-core.git",
+    "prop-types": "15.6.1",
+    "react": "16.4.2",
+    "react-dom": "16.4.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/govhk-form-core/formScripts/eslintrc.json"
+  }
+}

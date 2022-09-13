@@ -1,0 +1,97 @@
+{
+    "departmentName": "民政及青年事务局",
+    "title": "社区投资共享基金申请表格",
+    "step": {
+        "introduction": "简介",
+        "projectInfo": "计划基本资料"
+    },
+    "section": {
+        "projectInfo": "计划基本资料"
+    },
+    "field": {
+        "organisationName" : "机构名称",
+        "serviceUnitName" : "服务单位名称",
+        "projectName" : "计划名称",
+        "commencementDate" : "开始日期",
+        "completionDate" : "结束日期",
+        "amountRequested" : "申请金额",
+        "targetDistricts" : "推行地区",
+        "targetGroups" : "目标对象",
+        "targetGroupsOther" : "请说明：",
+        "volunteerNo" : "义工参与人数 (注一)",
+        "directParticipantNo" : "直接参与人数 (注二)",
+        "indirectParticipantNo" : "间接参与人数 (注三)",
+        "projectNature" : "计划类别",
+        "isThematicProject" : "计划是否属于主题项目"    
+    },
+    "selectTargetDistricts" : {
+        "wongTaiSin" : "黄大仙",
+        "kwunTong" : "观塘",
+        "yauTsimMong" : "油尖旺",
+        "eastern" : "东区",
+        "kowloonCity" : "九龙城",
+        "kwaiTsing" : "葵青",
+        "centralWestern" : "中西区",
+        "islands" : "离岛",
+        "yuenLong" : "元朗",
+        "tinShuiWai" : "天水围",
+        "shaTin" : "沙田",
+        "maOnShan" : "马鞍山",
+        "saiKung" : "西贡",
+        "tseungKwanO" : "将军澳",
+        "taiPo" : "大埔",
+        "shamShuiPo" : "深水埗",
+        "southern" : "南区",
+        "north" : "北区",
+        "wanChai" : "湾仔",
+        "tsuenWan" : "荃湾",
+        "tuenMun" : "屯门",
+        "allDistrictsInHK" : "全港各区"
+    },
+    "selectTargetGroups" : {
+        "children" : "儿童 (0-14)及家庭",
+        "youth" : "青年 (15-24)",
+        "adults" : "成年人 (25-64)",
+        "elderly" : "长者 (65或以上)",
+        "women" : "妇女",
+        "localResidents" : "地区居民",
+        "newArrivals" : "新来港人士",
+        "ethnicMinorities" : "少数族裔",
+        "unemployed" : "失业人士",
+        "schoolDropouts" : "辍学人士",
+        "disabilities" : "残疾人士/长期病患人士",
+        "middleClass" : "中产/专业人士",
+        "others" : "其他人士"
+    },
+    "selectProjectNature" : {
+        "family" : "家庭及儿童发展",
+        "community" : "建构社区能力",
+        "youth" : "青少年发展",
+        "social" : "社会共融",
+        "health" : "健康关顾",
+        "cross" : "跨代共融",
+        "elderly" : "长者支援及充能"
+    },
+    "selectYesNo" : {
+        "Yes" : "是",
+        "No" : "否"
+    },
+    "glossary" : {
+        "note1" : "注一：义工",
+        "definition1a" : "任何人自愿贡献个人时间及精神，在不为任何物质报酬的情况下，为改进社会而提供服务，时数不限。",
+        "definition1b" : "(参考香港义务工作发展局之定义)",
+        "note2" : "注二：直接参与人数",
+        "definition2a" : "指直接参与计划项目的人数，例如：课托儿童，被探访的长者或家庭等。如同一位参加者在计划中参与多个项目，",
+        "definition2b" : "请以主要角色计算一次，切勿重复计算 。",
+        "note3" : "注三：间接参与人数",
+        "definition3a" : "指间接参与计划项目的人数（",
+        "definition3b" : "不应",
+        "definition3c" : "与直接参与人数重复），例如：街展参观者、开幕礼观众等。"
+    },
+    "error": {
+        "invalidCompletionDate": "结束日期须在开始日期之后"
+    }, 
+    "customAck": {
+        "printOrSave":  "列印/输出已递交的表格为PDF"
+    }           
+}
